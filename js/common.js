@@ -20,8 +20,6 @@ searchInputEl.addEventListener('blur', function () {
 })
 
 
-
-
 /**
  * 올해가 몇 년도인지 계산
  */
